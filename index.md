@@ -8,3 +8,6 @@ Iron Man ist das Alter Ego des Multimilliardärs Anthony Edward Tony Stark. Dies
 * toll
 * schick
 * dominant
+
+Wie Iron Man sagte:
+> Kein Geld der Welt vermag eine Sekunde Zeit zu kaufen.
