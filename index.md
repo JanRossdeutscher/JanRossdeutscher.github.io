@@ -11,3 +11,6 @@ Iron Man ist das Alter Ego des Multimilliardärs Anthony Edward Tony Stark. Dies
 
 Wie Iron Man sagte:
 > Kein Geld der Welt vermag eine Sekunde Zeit zu kaufen.
+
+img src="https://media.istockphoto.com/photos/triathlete-triathlon-cyclist-cycling-silhouette-isolated-white-picture-id1151898772"/
+
